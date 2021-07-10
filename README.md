@@ -14,6 +14,10 @@ To learn, explore and compare various AI Libraries
 - Ridiculously simple to use 
 - Good for tabular data
 
+### MLJar
+- Quite similar to pycaret
+- Very simple, but only limited to machine learning algorithm
+
 ### H2O
 - Good for tabular data
 - I would prefer H2O over pycaret, but both are very easy to use
