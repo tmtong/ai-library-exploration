@@ -6,8 +6,19 @@ To learn, explore and compare various AI Libraries
 
 ## My conclusion
 
-Fast AI quite good for deep learning.
+### Fast AI 
+Quite good for deep learning.
 
-Pycaret, H2O and autogluon all quite good for tabular data
+### Pycaret
+Cannot do deep learning
+Ridiculously simple to use 
+Good for tabular data
 
+### H2O
+Good for tabular data
+I would prefer H2O over pycaret, but both are very easy to use
+
+
+### Autogluon
 Autogluon can mix tabular data and text data. 
+Autogluon has to have GPU for deep learning otherwise it wont run
