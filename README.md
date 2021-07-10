@@ -13,6 +13,7 @@ To learn, explore and compare various AI Libraries
 - Cannot do deep learning
 - Ridiculously simple to use 
 - Good for tabular data
+- Cannot do multi label
 
 ### MLJar
 - Quite similar to pycaret
@@ -27,6 +28,7 @@ To learn, explore and compare various AI Libraries
 - I would prefer H2O over pycaret, but both are very easy to use
 - Can also do deep learning
 - Supports R if that concerns you
+- Cannot do multi label
 - 
 ### Autogluon
 - Autogluon can mix tabular data and text data. This is awesome
@@ -34,8 +36,10 @@ To learn, explore and compare various AI Libraries
 - Run time is long even with GPU, although i did not explore measures to reduce run time
 - Can also do multi label classification
 - Working on text took so look that colab run out of GPU time
+- Can do multi label
 
 ## Conclusion
 My prefences are
 - Fast AI for deep learning
 - H2O for tabular data
+- Autogluon is quite flexible, but slow
